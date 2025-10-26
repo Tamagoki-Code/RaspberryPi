@@ -132,8 +132,3 @@ This project is released under the MIT License.
 You are free to modify, distribute, and use it for educational or personal projects.
 
 ⭐ If you enjoyed this project, consider giving it a star on GitHub!
-
----
----
-
-Would you like me to include **a “Future Improvements” section** (e.g., ghosts, restart button, o
