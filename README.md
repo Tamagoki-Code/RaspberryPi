@@ -37,22 +37,6 @@ When the player reaches the finish point, a **“YOU WIN”** message is display
 
 ---
 
-## 📦 File Structure
-
-maze-game/
-│
-├── main.py # Main game logic, button input, Wi-Fi AP setup, and web server
-├── static/
-│ ├── maze.html # Front-end HTML for the maze interface
-│ ├── script.js # JavaScript controlling movement and game events
-│ └── style.css # Maze design and color styling
-└── README.md # Project documentation
-
-yaml
-Copy code
-
----
-
 ## 💻 Setup and Installation
 
 ### 1. Flash MicroPython on Pico W
